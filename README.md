@@ -1,2 +1,2 @@
-# gitbook-example
-Simply testing the Gitbook integration.
+# Initial page
+
